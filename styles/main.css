@@ -1,0 +1,62 @@
+body {
+font-family: 'Montserrat', sans-serif;
+color: #4c71fe;
+background-color: #b6d4f6;
+font-size: 20px
+padding: 8em;
+}
+h2 {font-size: 28px;
+padding: 1em;
+}
+h3{font-size: 30px;
+  text-align: center;
+}
+header{
+font-family: 'Oswald', sans-serif;
+font-size: 80px;
+text-align: center;
+background-image: url(image/bg-header-02.jpg);
+background-repeat: no-repeat;
+background-position: top center;
+background-size: cover;
+min-height: 80vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+section{ font-family: 'Quicksand', sans-serif;
+padding: 1em;
+text-align: center;
+}
+.section-content-block {
+  padding: 4em;
+
+}
+.section-content{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.comp-content {
+text-align: center;
+padding: 1em;
+max-width: 320px;}
+
+footer{padding: 3em;}
+#bio{
+background-color: #ffe3f9;
+padding: 2em;
+margin: 6px;
+}
+
+
+#portfolio{ background-color:#b6d4f6;
+padding: 4em;
+margin: 8px;
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+
+}
