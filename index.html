@@ -5,7 +5,12 @@
     <title>Jess web page</title>
     <link rel="stylesheet" href="styles/main.css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat|Oswald|Quicksand" rel="stylesheet">
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script src="scripts/jquery.lettering.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Black+Ops+One|Fontdiner+Swanky|Freckle+Face|Frijole|Megrim|Press+Start+2P|Sancreek|Shojumaru|UnifrakturMaguntia" rel="stylesheet">
+    <link rel="stylesheet" href="styles/colorbox.css">
+    <script src="scripts/jquery.min.js"></script>
+    <script src="scripts/jquery.colorbox-min.js"></script>
   </head>
   <body>
 
@@ -13,7 +18,7 @@
       <div class="header-content-block">
 
   <h1>JESSICA PONS</h1>
-  <h2> Stay simple, Stay true </h2>
+  <h2>  </h2>
   </div>
   </header>
 
@@ -31,21 +36,29 @@
 
 
 <div class="comp-content">
-   <img src="images/illu01.jpg" alt="">
+   <a class='gallery' href='images/illu01.jpg'>
+     <img src="images/illu01.jpg" alt="puppy">
+ </a>
    <h2><a href="#">Illustration</a></h2>
    <p>Univers Graphique
      <p>(Dessins vectoriel, linogravure, carte à gratter, dessin noir et blanc ...)</p></p>
   </div>
 
 <div class="comp-content">
-    <img src="images/jaila.jpg" alt="">
+    <a class='gallery' href='images/jaila.jpg'>
+  <img src="images/jaila.jpg" alt="puppy">
+    </a>
   <h2><a href="#">Packaging</a></h2>
 <p>Réalisation de packaging</p>
 
     </div>
 
       <div class="comp-content">
-        <img src="images/typo01.jpg" alt="">
+
+        <a class='gallery' href='images/typo01.jpg'>
+          <img src="images/typo01.jpg" alt="puppy">
+        </a>
+
         <h2><a href="#">Typographie</a></h2>
     <p>Lettrine, Lettering, Lettrage, Poster typographique</p>
         </div>
@@ -90,7 +103,18 @@
 <h2><a href="#"></a>Coca Cola</h2>
 </div>
 
+
 </section>
+<script>
+jQuery('a.gallery').colorbox();
+</script>
+<script>
+$(document).ready(function() {
+$(".fancy_title").lettering(); });
+  </script>
+<script>
+$('a.gallery').colorbox({rel:'gal'});
+</script>
 
 <footer>
 <div class="address">
