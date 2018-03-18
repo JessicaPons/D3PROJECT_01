@@ -6,7 +6,68 @@ font-size: 20px
 padding: 8em;
 }
 h2 {font-size: 28px;
-padding: 1em;
+padding: 2em;
+}
+h2 span { font-family: 'Oswald', sans-serif;}
+.char1{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char2{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char3{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char4{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char5{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char6{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char7{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char14{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char15{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char16{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char17{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char18{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char19{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char20{
+  color: #FACC2E;
+  font-size: 2em;
+}
+.char21{
+  color: #FACC2E;
+  font-size: 2em;
 }
 h3{font-size: 30px;
   text-align: center;
