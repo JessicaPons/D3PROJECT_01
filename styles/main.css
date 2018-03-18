@@ -5,69 +5,69 @@ background-color: #0000;
 font-size: 20px
 padding: 8em;
 }
-h2 {font-size: 28px;
-padding: 2em;
+
+h2 span { font-family: 'Oswald', sans-serif;
+font-size: 40px;
 }
-h2 span { font-family: 'Oswald', sans-serif;}
 .char1{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char2{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char3{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char4{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char5{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char6{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char7{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char14{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char15{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char16{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char17{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char18{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char19{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char20{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 .char21{
   color: #FACC2E;
-  font-size: 2em;
+  font-size: 70px;
 }
 h3{font-size: 30px;
   text-align: center;
